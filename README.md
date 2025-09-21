@@ -155,7 +155,7 @@ private static readonly RPC_URLS = [
 ```
 
 ### Security Settings
-- **Derivation Path**: `m/44'/60'/0'/0/0` (BIP-44 standard for Ethereum)
+- **Derivation Path**: `m/44'/60'/0'/0/0` (BIP-44 standard for Ethereum BlockChain)
 - **Mnemonic Length**: 12 words (128-bit entropy)
 - **Address Format**: EIP-55 checksummed addresses
 
